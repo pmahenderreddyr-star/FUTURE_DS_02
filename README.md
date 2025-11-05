@@ -68,8 +68,8 @@ Excel / CSV – Data cleaning and preprocessing
 📸 Dashboard Preview
 
 <img width="1408" height="793" alt="Screenshot 2025-11-05 105706" src="https://github.com/user-attachments/assets/8d920acf-feaf-4cd8-8ac4-d466536c0b9a" />
-<img width="1385" height="787" alt="Screenshot 2025-11-05 110038" src="https://github.com/user-attachments/assets/c393d84f-5535-42d6-8c3b-39287b20736f" />
 <img width="1426" height="802" alt="Screenshot 2025-11-05 110122" src="https://github.com/user-attachments/assets/7a56ba60-f2ac-44fb-80a3-6ab6555f1273" />
+<img width="1385" height="787" alt="Screenshot 2025-11-05 110038" src="https://github.com/user-attachments/assets/c393d84f-5535-42d6-8c3b-39287b20736f" />
 <img width="1384" height="789" alt="Screenshot 2025-11-05 105959" src="https://github.com/user-attachments/assets/3053612b-a7d7-483b-8d97-83e97a476001" />
 <img width="1389" height="783" alt="Screenshot 2025-11-05 105843" src="https://github.com/user-attachments/assets/c03494fe-0bfc-431d-90fa-47aa9b7d2037" />
 
